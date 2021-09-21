@@ -29,5 +29,11 @@ color: gold;
 text-align: center;}
 
 button{
-font-size: large;
+height: auto;
+width: auto;
+border: solid silver;
+margin: auto;
+padding:10px;
+box-sizing: border-box;
+
 }
